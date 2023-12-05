@@ -1,16 +1,14 @@
-This theme is my spin on [migueravila's](https://github.com/migueravila) [SimpleFox](https://github.com/migueravila/SimpleFox) theme.<br/>
-Using <span style="color:teal">Teal</span> color palette.
+This theme is my spin on [harshpx](https://github.com/harshpx)'s [TealFox](https://github.com/harshpx/TealFox) theme, which is based on [migueravila](https://github.com/migueravila)'s [SimpleFox](https://github.com/migueravila/SimpleFox) theme.<br/>
+Using [Dark Vanilla](https://github.com/MintLily/Dark-Vanilla)'s color palette, with some added Material3 Web design choices. (pretty much just the rounded corners)
 
 <br/>
 
-![image](screenshots/s1.png)
-<br/>
-![image](screenshots/s0.png)
+![image](screenshots/Y7gcUjDW7e.jpg)
 
 <br/>
 
 ## Installation/Setup
-1. Go to `about:config` and Set these flags true:
+1. Go to `about:config` and Set these flags **true**:
     - **`toolkit.legacyUserProfileCustomizations.stylesheets`**
     - **`layers.acceleration.force-enabled`**
     - **`gfx.webrender.all`**
@@ -22,4 +20,4 @@ Using <span style="color:teal">Teal</span> color palette.
 3. Create an folder named `chrome` into this directory (if not already exists).
 4. Copy all the repo contents into `chrome` folder.
 5. Make all the customizations you want.
-6. 6.Enjoy!
+6. Enjoy!
